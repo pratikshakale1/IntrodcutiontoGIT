@@ -1,0 +1,19 @@
+# Compiled output
+/bin/
+
+# Eclipse settings
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
