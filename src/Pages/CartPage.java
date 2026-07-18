@@ -1,11 +1,11 @@
 package Pages;
 
-public class regPage {
+public class CartPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int i =10;
-		String name="dgf";
+		
+		System.out.println("cart page");
 
 	}
 
