@@ -7,5 +7,8 @@ public class HomePage {
 		System.out.println("Hello HP");
 		String name="pooja";
 		System.out.println(name);
+		String name1="suja";
+		
+		
 		}
 }
