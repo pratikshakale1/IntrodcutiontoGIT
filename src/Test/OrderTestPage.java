@@ -1,8 +1,12 @@
 package Test;
 
+import org.junit.Test;
+
 public class OrderTestPage {
 	
-	public void testOrder() {
+	@Test
+	public void orderTest() {
+
 		
 	}
 
